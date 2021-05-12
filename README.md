@@ -1,5 +1,5 @@
 # prefix 
-music.
+out.
 # commands 
  join/
  play/
